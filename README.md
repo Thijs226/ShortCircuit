@@ -4,7 +4,7 @@ Short Circuit is an Android app that helps you stop endlessly scrolling YouTube 
 
 ## Download
 
-**[Download Short Circuit v1.5 for Android](downloads/ShortCircuit-v1.5.apk?raw=1)**  
+**[Download Short Circuit v1.5 for Android](https://github.com/Thijs226/ShortCircuit/releases/download/v1.5/ShortCircuit-v1.5.apk)**  
 Requires Android 8.0 or newer and the official YouTube app.
 
 1. Download and install the APK. You may need to allow installation from your browser or file manager.
