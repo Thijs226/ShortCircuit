@@ -1,0 +1,12 @@
+/build/
+/dist/
+/tools/
+/local.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+.env
+.env.*
+*.apk
+!/downloads/ShortCircuit-v1.5.apk
